@@ -1,0 +1,5 @@
+target/
+.idea/
+pom.xml
+pom.xml~
+sealed-app.iml
